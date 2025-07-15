@@ -1,0 +1,2 @@
+Run ID,Algorithm (mathcalM),Scenario (mathcalS),Data Source,Instances,Instance Size,Repetition,Path Length (L),Packets Expected,Packets Received,Avg Latency (mathcalL),Avg Throughput (mathcalT),Energy Consumed,Mission Duration,Total Computation Time (ms)
+1,LKH,4 Instances of 50,data/tsp/tsp50_train_seed1111_size10K.pkl,4,50,1,12250.289405384943,33438,31589,386.5964646465278,51.33084172895082,615.0,615.4000000000714,500.63252449035645

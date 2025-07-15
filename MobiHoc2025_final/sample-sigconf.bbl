@@ -1,0 +1,138 @@
+\begin{thebibliography}{10}
+
+\bibitem{1-smartCity_Transformation}
+Maggi Bansal, Inderveer Chana, and Siobh\'{a}n Clarke.
+\newblock {UrbanEnQoSPlace}: A deep reinforcement learning model for service placement of real-time smart city {IoT} applications.
+\newblock {\em IEEE Transactions on Services Computing}, 16(4):3043--3060, 2022.
+
+\bibitem{2-smartCity_Resource_Allocation}
+Yuanyuan Zeng, Shujie Zhou, and Kai Xiang.
+\newblock Online-offline interactive urban crowd flow prediction toward {IoT}-based smart city.
+\newblock {\em IEEE Transactions on Services Computing}, 15(6):3417--3428, 2021.
+
+\bibitem{3-multi-hop}
+Dene~A Hedges, Justin~P Coon, and Gaojie Chen.
+\newblock A continuum model for route optimization in large-scale inhomogeneous multi-hop wireless networks.
+\newblock {\em IEEE Transactions on Communications}, 68(2):1058--1070, 2019.
+
+\bibitem{4-uavAdvantages1}
+Nan Qi, Zanqi Huang, Wen Sun, Shi Jin, and Xiang Su.
+\newblock Coalitional formation-based group-buying for {UAV}-enabled data collection: An auction game approach.
+\newblock {\em IEEE Transactions on Mobile Computing}, 22(12):7420--7437, 2022.
+
+\bibitem{5-uavAdvantages2}
+Luwei Fu, Zhiwei Zhao, Geyong Min, Wang Miao, Liang Zhao, and Wenjie Huang.
+\newblock Energy-efficient {3-D} data collection for multi-{UAV} assisted mobile crowdsensing.
+\newblock {\em IEEE Transactions on Computers}, 72(7):2025--2038, 2022.
+
+\bibitem{6-uavAdvantages3}
+Xueyuan Wang and M~Cenk Gursoy.
+\newblock Resilient path planning for {UAVs} in data collection under adversarial attacks.
+\newblock {\em IEEE Transactions on Information Forensics and Security}, 18:2766--2779, 2023.
+
+\bibitem{Seth2024}
+Avishkar Seth, Alice James, Endrowednes Kuantama, Richard Han, and Subhas Mukhopadhyay.
+\newblock {AeroBridge}: {Autonomous} {Drone} {Handoff} {System} for {Emergency} {Battery} {Service}.
+\newblock In {\em Proceedings of the 30th Annual International Conference on Mobile Computing and Networking}, MobiCom '24, pages 573--587, New York, NY, USA, May 2024. ACM.
+
+\bibitem{7-dataCollection_timeReduce}
+Zhidan Liu, Wei Xing, Bo~Zeng, Yongchao Wang, and Dongming Lu.
+\newblock Distributed spatial correlation-based clustering for approximate data collection in {WSNs}.
+\newblock In {\em Proceedings of the 27th IEEE International Conference on Advanced Information Networking and Applications}, AINA '13, pages 56--63. IEEE, 2013.
+
+\bibitem{Sharma2023}
+Suryansh Sharma, Ashutosh Simha, Venkatesha Prasad, Shubham Deshmukh, Kavin~Balaji Saravanan, Ravi Ramesh, and Luca Mottola.
+\newblock {BEAVIS}: {Balloon} {Enabled} {Aerial} {Vehicle} for {IoT} and {Sensing}.
+\newblock In {\em Proceedings of the 29th Annual International Conference on Mobile Computing and Networking}, MobiCom '23, pages 1--15, New York, NY, USA, October 2023. ACM.
+
+\bibitem{8-Minimizing_redundant}
+Zhenjie Guo, Jian Peng, Wenzheng Xu, Weifa Liang, Weigang Wu, Zichuan Xu, Bing Guo, and Yue~Ivan Wu.
+\newblock Minimizing redundant sensing data transmissions in energy-harvesting sensor networks via exploring spatial data correlations.
+\newblock {\em IEEE Internet of Things Journal}, 8(1):512--527, 2020.
+
+\bibitem{9-towStage}
+Xiuwen Fu, Chang Deng, and Antonio Guerrieri.
+\newblock Low-{AoI} data collection in integrated {UAV-UGV}-assisted {IoT} systems based on deep reinforcement learning.
+\newblock {\em Computer Networks}, 259:111044, March 2025.
+
+\bibitem{10-twoStage}
+Xueqiang Li, Ming Tao, Shuling Yang, Mian~Ahmad Jan, Jun Du, Lei Liu, and Celimuge Wu.
+\newblock {AI}-empowered intelligent search for path planning in {UAV}-assisted data collection networks.
+\newblock {\em IEEE Internet of Things Journal}, 11(21):34492--34503, 2024.
+
+\bibitem{11-twoStage}
+Tong Ding, Ning Liu, Zhong-Min Yan, Lei Liu, and Li-Zhen Cui.
+\newblock An efficient reinforcement learning game framework for {UAV}-enabled wireless sensor network data collection.
+\newblock {\em Journal of Computer Science and Technology}, 37(6):1356--1368, 2022.
+
+\bibitem{12-eachCluster-sequence}
+Yuchen Li, Weifa Liang, Wenzheng Xu, Zichuan Xu, Xiaohua Jia, Yinlong Xu, and Haibin Kan.
+\newblock Data collection maximization in {IoT}-sensor networks via an energy-constrained {UAV}.
+\newblock {\em IEEE Transactions on Mobile Computing}, 22(1):159--174, 2021.
+
+\bibitem{13-UavenergyModel}
+Yong Zeng, Jie Xu, and Rui Zhang.
+\newblock Energy minimization for wireless communication with rotary-wing {UAV}.
+\newblock {\em IEEE Transactions on Wireless Communications}, 18(4):2329--2345, 2019.
+
+\bibitem{14-IntelBerkeley2013}
+Intel {Berkeley} research lab data.
+\newblock Available at \url{http://db.csail.mit.edu/labdata/labdata.html}, 2013.
+\newblock Accessed: 2024-07-01.
+
+\bibitem{16-GA}
+Sheema Madhusudhanan, Arun~Cyril Jose, Jayakrushna Sahoo, and Reza Malekian.
+\newblock {PRIM$\epsilon$}: Novel privacy-preservation model with pattern mining and genetic algorithm.
+\newblock {\em IEEE Transactions on Information Forensics and Security}, 19:571--585, 2023.
+
+\bibitem{17-SOM}
+Laura~Maria Palomino~Mari{\~n}o and Francisco de~Assis Tenorio~de Carvalho.
+\newblock Self-organizing maps with adaptive distances for multiple dissimilarity matrices.
+\newblock {\em Machine Learning}, 113(10):7783--7806, 2024.
+
+\bibitem{18-ACO}
+Yiqian Wang, Jie Zhu, Haiping Huang, and Fu~Xiao.
+\newblock Bi-objective ant colony optimization for trajectory planning and task offloading in {UAV}-enabled {MEC} systems.
+\newblock {\em IEEE Transactions on Mobile Computing}, 23(12):12360--12377, December 2024.
+
+\bibitem{15-learning+greedy}
+Chaitanya~K Joshi, Quentin Cappart, Louis-Martin Rousseau, and Thomas Laurent.
+\newblock Learning the travelling salesperson problem requires rethinking generalization.
+\newblock {\em Constraints}, 27(1):70--98, 2022.
+
+\bibitem{19-Multi-Objective_Ant_Colony_Optimization}
+Riheng Jia, Qiyong Fu, Zhonglong Zheng, Guanglin Zhang, and Minglu Li.
+\newblock Energy and time trade-off optimization for multi-{UAV} enabled data collection of {IoT} devices.
+\newblock {\em IEEE/ACM Transactions on Networking}, 32(6):5172--5187, December 2024.
+
+\bibitem{20-GPUDA}
+Shu-Wei Chang, Jian-Jhih Kuo, Mong-Jen Kao, Bo-Zhong Chen, and Qian-Jing Wang.
+\newblock Near-optimal {UAV} deployment for delay-bounded data collection in {IoT} networks.
+\newblock In {\em Proceedings of the IEEE Conference on Computer Communications}, INFOCOM '24, pages 111--120. IEEE, 2024.
+
+\bibitem{21-ROI}
+Ruide Cao, Jiao Ye, Qian You, Jianghan Xu, Yi~Wang, Shiyu Jiang, and Yaomin Li.
+\newblock A novel region-of-interest based {UAV} planning strategy for mitigating urban peak demand.
+\newblock In {\em Proceedings of the 24th International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing}, MobiHoc '23, pages 300--301, New York, NY, USA, 2023. ACM.
+
+\bibitem{22-minimizing_AOI}
+Cheng Zhan, Han Hu, Jing Wang, Zhi Liu, and Shiwen Mao.
+\newblock Tradeoff between age of information and operation time for {UAV} sensing over multi-cell cellular networks.
+\newblock {\em IEEE Transactions on Mobile Computing}, 23(4):2976--2991, 2023.
+
+\bibitem{23-CMDP}
+Zhaolong Ning, Hongjing Ji, Xiaojie Wang, Edith C.~H. Ngai, Lei Guo, and Jiangchuan Liu.
+\newblock Joint optimization of data acquisition and trajectory planning for {UAV}-assisted wireless powered {Internet of Things}.
+\newblock {\em IEEE Transactions on Mobile Computing}, 24(2):1016--1030, February 2025.
+
+\bibitem{24-DDPG}
+Bin Dai, Jianwei Niu, Tao Ren, Zheyuan Hu, and Mohammed Atiquzzaman.
+\newblock Towards energy-efficient scheduling of {UAV} and base station hybrid enabled mobile edge computing.
+\newblock {\em IEEE Transactions on Vehicular Technology}, 71(1):915--930, 2021.
+
+\bibitem{25-combinedRL_IL}
+Jack Farley, Amirahmad Chapnevis, and Eyuphan Bulut.
+\newblock Generalized path planning for collaborative {UAVs} using reinforcement and imitation learning.
+\newblock In {\em Proceedings of the 24th International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing}, MobiHoc '23, pages 457--462, New York, NY, USA, 2023. ACM.
+
+\end{thebibliography}

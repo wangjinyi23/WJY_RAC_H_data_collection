@@ -1,0 +1,58 @@
+NAME : result_PSO.tour
+COMMENT : Length = 50
+COMMENT : Found by PSO
+TYPE : TOUR
+DIMENSION : 50
+TOUR_SECTION
+46
+50
+14
+17
+5
+49
+33
+47
+27
+2
+10
+37
+15
+30
+6
+41
+32
+40
+19
+25
+18
+1
+23
+39
+42
+28
+26
+34
+12
+36
+13
+44
+48
+29
+9
+16
+11
+8
+22
+31
+45
+21
+20
+38
+3
+43
+35
+7
+4
+24
+-1
+EOF
