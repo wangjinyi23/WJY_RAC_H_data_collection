@@ -1,1 +1,11 @@
 # Project
+## data_collection_RAC_H
+- data_collection_RAC_H中包含论文中的路径规划算法UTICA和最大化抑制冗余数据算法MISRED
+ - draw_py中包含的是论文中图片绘画的脚本
+## experiment_data
+- points_with_data_类型文件是实验设置的传感器节点位置以及每个节点所产生的传感数据
+- xxx_cluster_cmax-xx类型的文件则是表示不同网络规模下，选定的无人机悬停节点，以及每个不同cmax下的冗余数据量
+- 实验参数设置xls文件中包含了论文中的设置的各个参数
+- 实验数据包含了论文中实验的结果，其中绿色标注的是数据绘画成了论文中的图片。
+## MobiHoc2025_final
+- mobihoc会议投稿最终稿
